@@ -1,0 +1,11 @@
+{
+  "name": "banco-de-dados",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.15.0",
+    "@vercel/postgres": "^0.8.0",
+    "prisma": "^5.15.0"
+  }
+}
